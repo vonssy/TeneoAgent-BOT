@@ -1,0 +1,8 @@
+captcha_key.txt
+proxy.txt
+requirements.txt
+accounts.json
+tokens.json
+words.json
+bot.py
+setup.py
